@@ -1,0 +1,22 @@
+# Build output
+build/
+*.o
+*.obj
+*.exe
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDE files
+.vscode/
+.idea/
+*.xcodeproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files generated at runtime
+gamelog.txt
+*-gamelog.txt

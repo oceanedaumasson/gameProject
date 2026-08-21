@@ -1,0 +1,6 @@
+loadmap europe.map
+validatemap
+addplayer Alice
+addplayer Bob
+gamestart
+quit
