@@ -1,6 +1,6 @@
 # Warzone Engine
 
-A C++17 implementation of a Risk-style strategy game engine, built around five
+A C++17 implementation of a Risk-style game engine, built around five
 classic object-oriented design patterns: **Strategy**, **Observer**, **State**,
 **Adapter**, and clear separation of concerns across map, player, card, order,
 and command-processing subsystems.
