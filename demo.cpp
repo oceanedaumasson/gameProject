@@ -9,11 +9,11 @@
  * Run from the build/ directory: ./demo
  */
 
-#include "../GameEngine/GameEngine.h"
-#include "../Player/Player.h"
-#include "../PlayerStrategy/PlayerStrategies.h"
-#include "../cards/Cards.h"
-#include "../map/map.h"
+#include "GameEngine/GameEngine.h"
+#include "Player/Player.h"
+#include "PlayerStrategy/PlayerStrategies.h"
+#include "cards/Cards.h"
+#include "map/map.h"
 #include <iostream>
 #include <limits>
 #include <unordered_map>
