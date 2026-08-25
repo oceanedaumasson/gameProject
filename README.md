@@ -32,15 +32,6 @@ and command-processing subsystems.
 - Full game logging via the **Observer** pattern (`LogObserver` /
   `Subject` / `ILoggable`)
 
-## Build & run
-
-```bash
-mkdir build && cd build
-cmake ..
-make
-./demo
-```
-
 `demo` is a single menu-driven entry point that walks through the whole
 engine. From the `build/` directory:
 
